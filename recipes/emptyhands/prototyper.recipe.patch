@@ -1,0 +1,13 @@
+[
+	{
+		"op" : "test",
+		"path" : "/groups",
+		"value" : "inventorstable",
+		"inverse" : true
+	},
+	{
+		"op" : "add",
+		"path" : "/groups/-",
+		"value" : "inventorstable"
+	}
+]
