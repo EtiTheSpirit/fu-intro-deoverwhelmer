@@ -1,0 +1,8 @@
+{
+	"fu_tricorder_intro_simplifier_replacement_intro" : {
+		"type" : "tutorial",
+		"unique": true,
+		"text" : "^set;^yellow;Note^reset;: You are in possession of a ^orange;Personal Tricorder^reset;! This item is ^#ff0062;required^reset; to progress, so ^red;don't delete it^reset;. You'll be taught how to use it as you play.",
+		"persistTime" : 20.0
+	}
+}

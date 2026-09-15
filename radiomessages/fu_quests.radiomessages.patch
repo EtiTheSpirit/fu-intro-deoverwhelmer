@@ -1,0 +1,17 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/fu_start_greetings2/text",
+		"value" : "^set;There's a lot to do. But let's start small: Use your ^orange;Personal Tricorder^reset; and press ^green;Research^reset;. Under the ^cyan;Geology^reset; category, learn how to make a ^orange;Furnace^reset;, and then apply that knowledge to build one for yourself. You'll need to ^green;[C]^reset;raft an ^yellow;Inventor's Table^reset; to do this."
+	},
+	{
+		"op" : "replace",
+		"path" : "/fu_start_makeFurnace/text",
+		"value" : "^set;Excellent! Now for your next order of business: Use your ^orange;Personal Tricorder^reset; and access the ^green;Research^reset; menu again, then go to the ^cyan;Agriculture^reset; category and learn how to make a ^orange;Foraging Table^reset;. It's used for ^green;Survival^reset; and ^green;Farming^reset;. Just like before, you'll use your ^yellow;Inventor's Table^reset; to build it."
+	},
+	{
+		"op" : "replace",
+		"path" : "/fu_start_makeForaging/text",
+		"value" : "^set;Good. Remember, ^yellow;the ^green;Research^yellow; menu is how you ^orange;learn crafting recipes^yellow; and ^orange;make progress^reset;. If you ever have to ask ^lightgray;\"how do I make...\"^reset;, you probably ^yellow;just need to do some research^reset;! Your next goal is the ^orange;Machining Table^reset; under the ^cyan;Engineering^reset; category. You already know what to do."
+	}
+]

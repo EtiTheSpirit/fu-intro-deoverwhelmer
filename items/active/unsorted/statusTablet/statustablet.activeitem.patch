@@ -1,0 +1,7 @@
+[
+	{
+		"op" : "replace",
+		"path" : "/radioMessagesOnPickup",
+		"value" : [ "fu_tricorder_intro_simplifier_replacement_intro" ]
+	}
+]

@@ -1,0 +1,9 @@
+{
+  "author" : "^#FF5959;Xan^reset;",
+  "description" : "This mod dramatically simplifies the Frackin' Universe introduction [i]without[/i] actually getting rid of any vital information. \n\nThis means that new users [b]still learn everything they need to learn[/b], but are not so overwhelmed with all the radio messages and reading thrown at you as soon as you start. In my experience, a good chunk of new players join with friends playing in a modpack, and that modpack often includes FU. So making it that little bit easier goes a long way.\n\n[h1]Changes This Makes[/h1]\n\nWhen you restart your ship and get the Personal Tricorder, you see this message:\n\n(image here please)\n\nThen, to supplement the missing information, I've edited Vinalisj's dialogue during the intro sequence:\n\n(image here please)\n\n(image here please)\n\n(image here please)\n\n\n\nI may PR this into Frackin' Universe officially, but whether or not it gets added largely depends on how much Sayter actually believes this kind of change is useful for his intended audience. As it stands now, his intended audience is \"people who have already played Starbound\". So it's hard to know.",
+  "friendlyName" : "Frackin' Universe Startup De-Overwhelmer",
+  "includes" : ["FrackinUniverse"],
+  "name" : "fu_tricorder_intro_simplifier",
+  "tags" : "User Interface",
+  "version" : "1.0.0"
+}
